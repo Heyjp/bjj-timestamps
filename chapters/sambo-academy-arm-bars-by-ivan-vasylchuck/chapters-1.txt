@@ -1,0 +1,4 @@
+00:00:00 Lesson 1
+00:13:47 Lesson 2
+00:23:02 Lesson 3
+00:40:03 Lesson 4

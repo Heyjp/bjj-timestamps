@@ -1,0 +1,9 @@
+00:00:00 Chapter 9 The Lockdown
+00:13:04 Chapter 10 Half butterfly Overview
+00:17:57 Applied concepts
+00:26:21 Attacks, counters, and troubleshooting
+00:46:32 Bringing it together
+00:49:28 Chapter 11 Switch Base Overview
+00:54:54 Applied concepts
+01:01:51 Attacks and counters
+01:21:14 Bringing it together

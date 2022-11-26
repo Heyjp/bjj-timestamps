@@ -1,0 +1,8 @@
+00:00:00 Legs - Entry
+00:03:54 Entry 2
+00:10:41 Control
+00:16:31 Control 2
+00:19:44 Finish
+00:24:21 Finish 2
+00:29:12 Escape
+00:33:50 Escape 2

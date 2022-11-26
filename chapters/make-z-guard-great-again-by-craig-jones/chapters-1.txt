@@ -1,0 +1,4 @@
+00:00:00 Introduction
+00:08:13 Z-Guard Positioning
+00:14:14 Z-Guard Retention
+00:22:30 Developing a Dynamic Z-Guard

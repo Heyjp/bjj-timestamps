@@ -1,0 +1,4 @@
+00:00:00 Intro
+00:00:40 Head and arm escape
+00:06:44 Escaping closed Guard
+00:13:02 Belly down with hooks

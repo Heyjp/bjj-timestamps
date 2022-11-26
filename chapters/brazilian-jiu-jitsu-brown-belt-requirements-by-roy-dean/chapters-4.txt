@@ -1,0 +1,7 @@
+00:00:00 Donald Bowerman. Part 1: The Challenge
+00:26:19 Part 2: The Evaluation
+00:27:01 Positional Escapes
+00:31:27 Guard Control
+00:34:36 Guard Passing
+00:38:14 Sidemount Control
+00:42:26 Mount Control

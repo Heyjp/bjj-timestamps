@@ -1,0 +1,12 @@
+00:00:00 Introduction
+00:00:20 Stance & Movement - Wonderboy Stance
+00:04:30 Evolution of the fighting stance
+00:09:35 Shuffle Movement
+00:12:28 Implementing the shuffle movement
+00:16:21 Implementing Distance Management - Concept of Distance Management
+00:18:07 Drill 1
+00:21:54 Drill 2
+00:24:55 Drill 3
+00:27:57 Drill 4
+00:32:39 Drill 5
+00:36:42 Drill 6 The Masvidal Knockdown

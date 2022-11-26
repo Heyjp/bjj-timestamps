@@ -1,0 +1,4 @@
+00:00:00 Closed guard
+00:07:47 Inside closed guard
+00:15:00 Passing the guard
+00:29:10 Side Control Top

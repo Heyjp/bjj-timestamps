@@ -1,0 +1,6 @@
+00:00:00 Introduction
+00:02:05 Body position concepts
+00:21:01 Clock idea
+00:26:25 Wrist control concepts
+00:54:03 Counter wizard armdrag
+01:03:42 Underhook limp armdrag(add on)

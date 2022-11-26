@@ -1,0 +1,4 @@
+00:00:00 Inside turnout
+00:09:41 Outside turnout
+00:14:44 Defending against seat belt
+00:27:30 Turnout toward open side

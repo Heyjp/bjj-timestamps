@@ -1,0 +1,8 @@
+00:00:00 No arm attacks. Arm trap
+00:05:10 Arm bar/trapped arm
+00:09:53 Arm bar/opposite arm
+00:13:17 Omoplata / trapped arm
+00:18:38 Omoplata / opposite
+00:23:12 Shoulder lock (trapped side)
+00:28:08 Kimura (trappedside)
+00:32:34 Kimura (opposite)

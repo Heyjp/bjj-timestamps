@@ -1,0 +1,4 @@
+00:00:00 Setting in hooks
+00:06:43 Setting in hook if turtles
+00:14:37 Getting back from closed guard
+00:23:26 Rolling back

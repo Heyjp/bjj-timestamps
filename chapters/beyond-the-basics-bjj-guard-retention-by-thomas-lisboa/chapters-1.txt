@@ -1,0 +1,10 @@
+00:00:00 Introduction
+00:01:56 Concepts To Avoid The Stack Pass 1
+00:04:39 Concepts To Avoid The Stack Pass 2
+00:07:34 Stack Pass Vs. Hook Sweep
+00:11:07 Stack Pass Vs. Modified Technical Stand Up
+00:14:26 Avoiding The Stack Pass Drill
+00:16:45 Stack Pass Vs. Triangle Choke
+00:20:50 Stack Pass Vs. Dimi Defense
+00:24:16 Stack Pass Vs. Pushing The Elbow
+00:28:26 Stack Pass Vs. Back Roll Defense

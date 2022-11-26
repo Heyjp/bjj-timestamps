@@ -1,0 +1,3 @@
+00:00:00 spider + lasso, spider/lasso passing
+00:16:31 opening closed guard + passing
+00:24:26 passing half guard

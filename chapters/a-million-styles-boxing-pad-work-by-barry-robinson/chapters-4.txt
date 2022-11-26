@@ -1,0 +1,7 @@
+00:00:00 Pivot Out
+00:07:33 Pivot In
+00:23:51 Slip
+00:33:28 Pull
+00:42:14 Slip, Roll
+00:46:20 Slip, Slip Roll
+00:51:04 Slip, Slip, Pivot

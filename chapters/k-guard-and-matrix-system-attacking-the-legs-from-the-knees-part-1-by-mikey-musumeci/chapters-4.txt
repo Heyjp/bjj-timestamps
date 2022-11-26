@@ -1,0 +1,5 @@
+00:00:00 Setup 1
+00:14:30 Setup 2
+00:20:51 Setup 3
+00:30:30 Setup 4
+00:35:36 Setting up K guard vs deadfoot

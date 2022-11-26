@@ -1,0 +1,5 @@
+00:00:00 Overhook Framed Triangle Setup
+00:04:59 Overhook Frames Sweep - Mounted Triangle
+00:09:15 Arm in Guillotine with Reverse Gable Grip
+00:14:24 Head and Arm Control to Mounted Guillotine
+00:18:35 Failed Arm in Guillotine Recovery - Submission

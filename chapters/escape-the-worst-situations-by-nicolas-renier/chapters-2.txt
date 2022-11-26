@@ -1,0 +1,3 @@
+00:00:00 North South
+00:07:35 Mount Position
+00:25:58 Turtle Position

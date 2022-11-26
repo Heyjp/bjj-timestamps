@@ -1,0 +1,4 @@
+00:00:00 Chapter 1 - Introduction
+00:01:15 Chapter 2 - Basic truck entries - Prehook from turtle
+00:05:00 Chapter 3 - Samurai roll flow
+00:09:37 Chapter 4 - Ninja roll

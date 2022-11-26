@@ -1,0 +1,13 @@
+00:00:00 Double over pass
+00:03:45 Folding pass from hooks
+00:07:27 Folding pass entries
+00:11:32 Double under pass
+00:14:56 Double under pass #2
+00:17:49 Double under entry from closed guard
+00:20:59 Double under snap
+00:23:21 Double under to back take from turn away escape
+00:26:21 Passing half guard to mount using pressure
+00:30:13 Half guard base switch pass over the arm
+00:34:53 Half guard base switch pass over the arm pit
+00:38:09 Half guard over the arm pit trap to back take
+00:42:00 Double over jump over pass

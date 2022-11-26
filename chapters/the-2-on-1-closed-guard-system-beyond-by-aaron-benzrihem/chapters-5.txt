@@ -1,0 +1,5 @@
+00:00:00 Conclusion/review. Introduction
+00:01:29 Review of concepts & techniques
+00:11:26 Plan of application / implementation
+00:14:49 What should you expect / progression
+00:16:56 Closing thoughts

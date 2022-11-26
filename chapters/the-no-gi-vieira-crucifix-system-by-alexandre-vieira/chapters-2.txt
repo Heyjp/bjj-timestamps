@@ -1,0 +1,6 @@
+00:00:00 From Turtle
+00:06:46 From Turtle Rolling
+00:11:09 From Turtle Seated
+00:15:01 From Turtle Falling To Head Side
+00:17:41 When Rolling Without The Arm
+00:21:21 Without The Arm Variation

@@ -1,0 +1,14 @@
+00:00:00 Sparring Analysis. Sequence 01
+00:01:11 Sequence 02
+00:01:35 Sequence 03
+00:02:43 Sequence 04
+00:03:00 Sequence 05
+00:03:44 Sequence 06
+00:05:09 Sequence 07
+00:05:26 Sequence 08
+00:05:36 Sequence 09
+00:06:29 Sequence 10
+00:07:08 Sequence 11
+00:07:37 Sequence 12
+00:08:02 Drilling Session
+00:11:01 Student Corrections

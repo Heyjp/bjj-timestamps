@@ -1,0 +1,5 @@
+00:01:10 Knee Slice Entry
+00:04:07 Knee Slice Finish
+00:16:44 Knee Slice Failure Recovery
+00:35:09 Leg Weave
+00:51:31 Toreando

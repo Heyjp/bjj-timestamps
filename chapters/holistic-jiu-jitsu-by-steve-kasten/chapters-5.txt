@@ -1,0 +1,8 @@
+00:00:00 Kimura trap - Entry
+00:04:13 Entry 2
+00:08:21 Control
+00:11:50 Spider web entry
+00:14:03 Escape
+00:16:12 Escape 2
+00:19:31 Finish
+00:23:27 Finish 2

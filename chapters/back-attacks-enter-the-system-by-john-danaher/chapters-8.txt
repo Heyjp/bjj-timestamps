@@ -1,0 +1,6 @@
+00:00:00 Near Side Entries 04
+00:07:23 Near Side Entries 05
+00:18:10 Rolling Entries 01
+00:29:45 Rolling Entries 02
+00:41:58 FOUR Point Position
+00:53:08 Conclusion

@@ -1,0 +1,4 @@
+00:00:00 Intro Theory
+00:01:07 Intro To Course
+00:12:51 Understanding Edges
+00:16:36 Addressing Frames

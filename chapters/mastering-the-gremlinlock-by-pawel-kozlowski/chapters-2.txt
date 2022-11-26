@@ -1,0 +1,13 @@
+00:00:00 Armbar to GremlinLock
+00:04:17 Armbar to GremlinLock 2
+00:07:00 Armbar to GremlinLock 3
+00:09:45 GremlinLock from Bottom Half Guard
+00:14:34 GremlinLock from Half Guard Top
+00:20:04 GremlinLock from Half Guard Top 2
+00:24:22 GremlinLock from Deep Half Guard Top
+00:26:58 GremlinLock from Deep Half Guard Top 2
+00:31:01 GremlinLock from Closed Guard
+00:34:02 GremlinLock from Closed Guard 2
+00:37:43 GremlinLock from Turtle
+00:41:00 GremlinLock from Turtle 2
+00:44:19 Outro

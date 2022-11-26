@@ -1,0 +1,5 @@
+00:00:00 Arm Staple Isolation
+00:06:53 Side Isolation
+00:09:21 Kimura Trap Control
+00:13:37 Forcing The Kimura Trap
+00:20:29 Kimura Trap From Outside Position

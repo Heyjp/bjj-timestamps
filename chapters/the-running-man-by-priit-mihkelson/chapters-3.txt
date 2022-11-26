@@ -1,0 +1,8 @@
+00:00:00 Hawking
+00:05:22 Testing hawking
+00:13:04 Hawking to panda
+00:18:36 Hawking to running man
+00:24:27 Hawking/running man toreando
+00:33:28 Hawking/running man over under
+00:43:54 Proof of system
+00:49:01 Creating slack

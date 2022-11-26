@@ -1,0 +1,5 @@
+00:00:00 Near Side Cradle
+00:05:06 Hammerlock to Tilt
+00:10:49 Hammerlock to Snake/Nearside Cradle
+00:16:01 Optional Start to Far Side Cradle
+00:19:22 Optional Start to near side cradle

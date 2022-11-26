@@ -1,0 +1,8 @@
+00:00:00 phase 2 week 1
+00:07:05 phase 2 week 2
+00:07:34 phase 2 week 3
+00:09:30 phase 2 week 4
+00:10:24 phase 3 week 1
+00:17:14 phase 3 week 2
+00:18:06 phase 3 week 3
+00:18:55 phase 3 week 4

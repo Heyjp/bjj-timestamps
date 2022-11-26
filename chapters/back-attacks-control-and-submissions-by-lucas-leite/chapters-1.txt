@@ -1,0 +1,3 @@
+00:00:00 Intro
+00:01:10 Back Take From Turtle Position
+00:19:37 Back Take From Turtle Position Option 2

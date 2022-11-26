@@ -1,0 +1,6 @@
+00:00:00 Drag Double
+00:05:22 Drag Single
+00:10:07 Fake arm drag to sweep single
+00:15:12 Clearing Wrist Tie to arm drag
+00:18:07 Wax On Wax Off to Arm Drag
+00:21:43 Underhook to Arm Drag

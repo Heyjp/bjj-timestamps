@@ -1,0 +1,5 @@
+00:00:00 Secondary options. False reap
+00:06:55 False reap inversion
+00:09:38 Near side k guard
+00:15:38 Lasso far side k/ near side
+00:18:37 Outro

@@ -1,0 +1,5 @@
+00:00:00 Introduction
+00:00:46 What are Feints? And how do we use them effectively?
+00:07:13 Different Types Of Feints
+00:12:59 Jab Feints
+00:20:53 Lead Hook Feints

@@ -1,0 +1,8 @@
+00:00:00 Arm in chokes - Entry
+00:04:11 Control
+00:06:24 Control 2
+00:09:29 Escape
+00:12:42 Escape 2
+00:14:55 Finish
+00:17:32 Finish 2
+00:20:30 Outro

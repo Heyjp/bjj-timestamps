@@ -1,0 +1,7 @@
+00:00:00 False Reap - Standard False Reap Entry
+00:05:31 False Reap Controlling Second Leg
+00:09:43 False Reap Opponent Tries To Base With Wide Knees
+00:12:39 False Reap Opponent Stays On Feet
+00:17:29 False Reap Opponent Leans Forward
+00:23:23 False Reap Opponent Tries To Run Away
+00:26:31 False Reap Can’t Bend The Leg

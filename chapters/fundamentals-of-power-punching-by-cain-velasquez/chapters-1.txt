@@ -1,0 +1,6 @@
+00:00:00 Introduction to the Jab
+00:00:42 Basic Jabbing Concepts
+00:07:03 Jabbing Distance
+00:12:21 Connecting With Power
+00:19:10 Working With Motion
+00:26:45 Closing Thoughts on the Jab
