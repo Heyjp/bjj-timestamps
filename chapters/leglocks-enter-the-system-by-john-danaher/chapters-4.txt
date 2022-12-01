@@ -1,0 +1,10 @@
+00:00:00 Intro
+00:02:26 Shared Spiral Problem
+00:07:12 Single Ashi Solution
+00:11:43 Multiple Ashi Solution
+00:16:14 Exposing The Heel
+00:19:37 Negating Resistance
+00:26:52 Breaking
+00:36:43 Cycles of Inside Outside Dominance
+00:43:04 Stopping The Spiral
+00:48:46 CONTROL SPEED OF THE SPIRAL

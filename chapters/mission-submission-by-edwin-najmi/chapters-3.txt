@@ -1,0 +1,10 @@
+00:00:00 estima lock basics
+00:05:37 finishing the estima lock #1
+00:07:34 finishing the estima lock #2
+00:11:19 stepover estima lock
+00:14:26 dropping estima lock
+00:19:15 estima from leg drag #1
+00:23:20 estima from leg drag #2
+00:27:20 estima lock from lasso
+00:30:53 estima lock from bottom de la riva
+00:35:50 estima lock from around the world
