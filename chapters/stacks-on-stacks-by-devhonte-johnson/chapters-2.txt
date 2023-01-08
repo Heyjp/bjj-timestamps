@@ -1,0 +1,4 @@
+00:00:00 De La Riva
+00:10:41 Stack Off The Lasso
+00:17:54 Reverse Stack
+00:25:11 Reverse Stack Leg Drag
