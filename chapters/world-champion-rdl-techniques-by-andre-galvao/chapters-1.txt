@@ -1,0 +1,3 @@
+00:00:00 Introduction to Reverse De la Riva Concepts
+00:25:24 Understanding the Reverse De la Riva Guard Controlling and Transitions
+00:39:16 The Y Guard Sweep

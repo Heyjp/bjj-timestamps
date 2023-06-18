@@ -1,0 +1,5 @@
+00:00:00 2nd Transition - Movements #2 - Walking State
+00:06:16 3rd Transition - Movements #3 - Running State
+00:19:59 4th Transition - Movements #4 - Complexity
+00:31:54 5th Transition - Movements #5 - Explore & Create
+00:35:42 Conclusion - Final Wrap Up
