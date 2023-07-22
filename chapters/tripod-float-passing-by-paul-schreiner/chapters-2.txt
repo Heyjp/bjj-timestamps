@@ -1,0 +1,4 @@
+00:00:00 Stopping the Hook Sweep with Arm Control
+00:08:10 Controlling the Leg
+00:18:36 Entering the Tri Pod Directly
+00:24:43 Maintaining the TriPod and Energy Maintenance
