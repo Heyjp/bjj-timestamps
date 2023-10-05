@@ -1,0 +1,9 @@
+00:00:00 Padwork Basic
+00:01:10 Combo 1
+00:02:40 Combo 2
+00:04:09 Combo 3
+00:05:20 Combo 4
+00:06:43 Combo 5
+00:07:24 Combo 6
+00:08:28 Combo 7
+00:09:33 Combo 8

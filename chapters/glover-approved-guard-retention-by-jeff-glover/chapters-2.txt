@@ -1,0 +1,5 @@
+00:00:00 Different Ways Of Using Hooks
+00:06:59 Open Guard
+00:14:52 Backwards Hooks
+00:21:36 X-Guard And Half Guard Retention
+00:30:31 Create The Sprawl
